@@ -1,6 +1,6 @@
 # Technical Report
 
-This repository contains indicators of compromise and scripts related to the report [German-made FinSpy spyware found in Egypt, and Mac and Linux versions revealed ](https://www.amnesty.org/en/latest/research/2020/09/german-made-finspy-spyware-found-in-egypt-and-mac-and-linux-versions-revealed/) published by Amnesty Tech in September 2019.
+This repository contains indicators of compromise and scripts related to the report [German-made FinSpy spyware found in Egypt, and Mac and Linux versions revealed ](https://www.amnesty.org/en/latest/research/2020/09/german-made-finspy-spyware-found-in-egypt-and-mac-and-linux-versions-revealed/) published by Amnesty Tech in September 2020.
 
 Indicators:
 
