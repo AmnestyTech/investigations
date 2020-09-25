@@ -1,0 +1,4 @@
+javalang
+pystache
+yara-python
+git+https://github.com/U039b/smalisca.git
