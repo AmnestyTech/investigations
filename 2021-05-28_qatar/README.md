@@ -6,7 +6,7 @@ Malcolm Bidali, 29, is a security guard in Qatar, blogger and activist, who has 
 
 A few days before his disappearance, someone replied to a tweet from Malcolm's Twitter account [@NoahArticulates](https://twitter.com/noaharticulates) with a link to what appeared to be a Human Rights Watch video. This link has been used in an attempt to gather technical information which may have contributed to his identification or geolocation. Amnesty International's Security Lab identified two more domains related to this campaign which may have been used in the same way.
 
-## Initial Tweet
+## Initial Tweet
 
 On the 26th of April, the Twitter account @MukhbatQatar replied to @NoahArticulates with a tweet that included a link to a domain mimicking YouTube: `https://youl[.]tube/watch?v=Gt4tqJLiOT0&t=s17`
 
