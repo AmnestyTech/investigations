@@ -23,7 +23,6 @@ corecomnetd
 ctrlfs
 dhcp4d
 Diagnostic-2543
-Diagnosticd
 Diagnostics-2543
 eventfssd
 eventsfssd
