@@ -1,0 +1,22 @@
+rr-name,rtype,rr-dname,first-seen,last-seen,count-requested
+14-tracking.com,NS,dns2.rebel.com,2017-12-01 16:02:54,2017-12-01 16:02:54,1
+14-tracking.com,NS,dns.rebel.com,2017-12-01 16:02:54,2017-12-01 16:02:54,1
+1minto-start.com,A,185.94.190.203,2017-12-23 21:01:26,2018-07-24 07:23:39,3
+1minto-start.com,NS,ns1.pananames.com,2017-12-18 08:12:59,2018-07-24 07:23:39,8
+1minto-start.com,NS,ns2.pananames.com,2017-12-18 08:12:59,2018-07-24 07:23:39,8
+1minto-start.com,NS,ns3.pananames.com,2017-12-18 08:12:59,2018-07-24 07:23:39,8
+1minto-start.com,NS,ns4.pananames.com,2017-12-18 08:12:59,2018-07-24 07:23:39,8
+1minto-start.com,SOA,ns.1minto-start.com. hostmaster.1minto-start.com. 0 28800 7200 604800 86400,2017-12-18 08:12:59,2017-12-18 08:15:36,4
+24-7clinic.com,A,184.168.221.37,2017-01-23 20:37:54,2017-03-26 22:42:49,2
+smtp.24-7clinic.com,A,205.178.189.131,2014-09-16 12:41:47,2014-09-16 12:41:47,1
+24-7clinic.com,NS,ns57.domaincontrol.com,2017-01-23 20:37:54,2017-03-26 22:42:49,4
+24-7clinic.com,NS,ns58.domaincontrol.com,2017-01-23 20:37:54,2017-03-26 22:42:49,4
+3driving.com,NS,ns1mtw.name.com,2018-06-30 06:59:54,2018-06-30 06:59:54,3
+3driving.com,NS,ns2fwz.name.com,2018-06-30 06:59:54,2018-06-30 06:59:54,3
+3driving.com,NS,ns3dgj.name.com,2018-06-30 06:59:54,2018-06-30 06:59:54,3
+3driving.com,NS,ns4jnz.name.com,2018-06-30 06:59:54,2018-06-30 06:59:54,3
+3driving.com,SOA,ns1mtw.name.com. support.name.com. 0 10800 3600 604800 3600,2018-06-30 06:59:54,2018-06-30 06:59:54,1
+456h612i458g.com,A,81.22.255.180,2017-12-02 09:43:15,2017-12-02 09:43:15,1
+update.456h612i458g.com,A,81.22.255.180,2017-10-23 14:10:06,2017-10-23 14:10:06,1
+
+# I have more PDNS data. Please contact me at aron@securityguide.me if you want me to privately send it to you.
