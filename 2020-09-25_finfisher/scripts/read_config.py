@@ -1,4 +1,5 @@
 import argparse
+import os
 import sys
 import struct
 #import simplejson as json
