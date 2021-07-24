@@ -1,0 +1,4 @@
+127.0.0.1	flash.browserupdate.download
+127.0.0.1	current.browserupdate.download
+127.0.0.1	files.browserupdate.download
+127.0.0.1	browserupdate.download

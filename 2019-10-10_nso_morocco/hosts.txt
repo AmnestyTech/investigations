@@ -1,0 +1,8 @@
+127.0.0.1	stopsms.biz
+127.0.0.1	revolution-news.co
+127.0.0.1	videosdownload.co
+127.0.0.1	infospress.com
+127.0.0.1	business-today.info
+127.0.0.1	hmizat.co
+127.0.0.1	free247downloads.com
+127.0.0.1	bun54l2b67.get1tn0w.free247downloads.com

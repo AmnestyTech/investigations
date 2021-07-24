@@ -1,0 +1,3 @@
+127.0.0.1	srf-goolge.site
+127.0.0.1	gmailusercontent.site
+127.0.0.1	protect-outlook.com
