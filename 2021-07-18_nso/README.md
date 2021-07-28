@@ -12,6 +12,5 @@ These indicators include:
 * `v4_validation_domains.txt`: list of Pegasus Version 4 validation/URL shortener domains
 * `emails.txt`: list of iCloud accounts used for exploiting zero-click vulnerabilities in iMessage and other Apple apps
 * `files.txt`: list of suspicious files
-    * **Warning**: the `com.apple.CrashReporter.plist` file listed here can be created by Pegasus but can also be legitimately created by the system during updates. Without additional indicators, it does not confirm the infection of a iPhone.
 * `pegasus.stix2`: [STIX v2](https://oasis-open.github.io/cti-documentation/stix/intro.html) file containing IOCs that can be used with MVT
 * `processes.txt`: list of Pegasus-related process names identified on compromised phones

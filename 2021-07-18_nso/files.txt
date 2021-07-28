@@ -1,3 +1,2 @@
-com.apple.CrashReporter.plist
 roleaccountd.plist
 private/var/db/com.apple.xpc.roleaccountd.staging/
