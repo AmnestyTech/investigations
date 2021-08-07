@@ -10,7 +10,5 @@ These indicators include:
 * `v3_domains.txt`: list of Pegasus Version 3 infrastructure
 * `v4_domains.txt`: list of Pegasus Version 4 infrastructure
 * `v4_validation_domains.txt`: list of Pegasus Version 4 validation/URL shortener domains
-* `emails.txt`: list of iCloud accounts used for exploiting zero-click vulnerabilities in iMessage and other Apple apps
-* `files.txt`: list of suspicious files
-* `pegasus.stix2`: [STIX v2](https://oasis-open.github.io/cti-documentation/stix/intro.html) file containing IOCs that can be used with MVT
-* `processes.txt`: list of Pegasus-related process names identified on compromised phones
+
+## All these domains were converted to a hosts file, so you can use it in applications like AdAway.
