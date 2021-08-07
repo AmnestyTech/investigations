@@ -1,26 +1,26 @@
-baramije.net
-documentpro.org
-ikomek.info
-monawa3ate.org
-news-flash.net
-oplata-shtraf.info
-pay-penalty.info
-photo-afisha.net
-shtraf.info
-tahmilmilafate.com
-tahmilmilafate.info
-uidebol.info
-globalnews247.net
-todaysdeals4u.com
-telangana-news24.com
-tibetnews365.net
-jeeyarworld.com
-latest-songs.com
-bankportal.net
-gossipsbollywoods.com
-redstarnews.net
-secretgirlfriend.net
-securedlogin.org
-waitingtoload.com
-websiteconnecting.com
-websitereconnecting.com
+0.0.0.0 baramije.net
+0.0.0.0 documentpro.org
+0.0.0.0 ikomek.info
+0.0.0.0 monawa3ate.org
+0.0.0.0 news-flash.net
+0.0.0.0 oplata-shtraf.info
+0.0.0.0 pay-penalty.info
+0.0.0.0 photo-afisha.net
+0.0.0.0 shtraf.info
+0.0.0.0 tahmilmilafate.com
+0.0.0.0 tahmilmilafate.info
+0.0.0.0 uidebol.info
+0.0.0.0 globalnews247.net
+0.0.0.0 todaysdeals4u.com
+0.0.0.0 telangana-news24.com
+0.0.0.0 tibetnews365.net
+0.0.0.0 jeeyarworld.com
+0.0.0.0 latest-songs.com
+0.0.0.0 bankportal.net
+0.0.0.0 gossipsbollywoods.com
+0.0.0.0 redstarnews.net
+0.0.0.0 secretgirlfriend.net
+0.0.0.0 securedlogin.org
+0.0.0.0 waitingtoload.com
+0.0.0.0 websiteconnecting.com
+0.0.0.0 websitereconnecting.com
