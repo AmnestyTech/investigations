@@ -10,5 +10,3 @@ These indicators include:
 * `v3_domains.txt`: list of Pegasus Version 3 infrastructure
 * `v4_domains.txt`: list of Pegasus Version 4 infrastructure
 * `v4_validation_domains.txt`: list of Pegasus Version 4 validation/URL shortener domains
-
-## All the domains were converted to a hosts file, so you can use it in applications like AdAway.
