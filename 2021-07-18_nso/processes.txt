@@ -67,4 +67,9 @@ setframed
 smmsgingd
 stagingd
 vm_stats
+keybrd
 xpccfd
+fnotifyd
+tisppd
+updaterd
+wifip2ppd
