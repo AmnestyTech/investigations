@@ -1,0 +1,6 @@
+/private/var/tmp/UserEventAgent
+/private/var/tmp/com.apple.WebKit.Networking
+/private/var/tmp/hooker
+/private/var/tmp/takePhoto
+/data/local/tmp/wd/fs.db
+/data/local/tmp/wd/
