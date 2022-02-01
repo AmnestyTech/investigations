@@ -34,8 +34,10 @@ fmld
 frtipd
 fservernetd
 gatekeeperd
+GoldenGate
 gssdp
 JarvisPluginMgr
+jlmvskrd
 launchafd
 launchrexd
 libbmanaged
@@ -54,6 +56,7 @@ neagentd
 nehelprd
 netservcomd
 otpgrefd
+passsd
 pcsd
 PDPDialogs
 pstid
