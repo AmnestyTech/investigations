@@ -61,6 +61,7 @@ conlnk.one
 connectivitychecker.com
 connectivitycheck.live
 connectivitycheck.online
+contents-domain.com
 covid19masks.shop
 crashonline.site
 cut.red
@@ -216,6 +217,7 @@ qwert.xyz
 qwxzyl.com
 redeitt.com
 redirecting.live
+redirecting.page
 safelyredirecting.com
 safelyredirecting.digital
 sepenet.gr.com
