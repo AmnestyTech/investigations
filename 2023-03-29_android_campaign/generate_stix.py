@@ -17,7 +17,7 @@ if __name__ == "__main__":
         properties = list(set([a.strip() for a in f.read().split()]))
 
     res = []
-    malware = Malware(name="AndroidMalware", is_family=False, description="Targeted Android Malware")
+    malware = Malware(name="MercenarySpywareCampaign", is_family=False, description="Targeted campaign by a mercenary spyware company")
     res.append(malware)
     for d in domains:
         i = Indicator(indicator_types=["malicious-activity"], pattern="[domain-name:value='{}']".format(d), pattern_type="stix")
