@@ -37,5 +37,5 @@ if __name__ == "__main__":
 
     bundle = Bundle(objects=res)
     with open("cytrox.stix2", "w+") as f:
-        f.write(str(bundle))
+        f.write(bundle.serialize(indent=4))
     print("cytrox.stix2 file created")
