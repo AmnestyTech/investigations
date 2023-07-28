@@ -73,10 +73,12 @@ dragonair.xyz
 eagerfox.xyz
 ebill.cosmote.center
 edolio5.com
+efsyn.news
 efsyn.online
 eg-gov.org
 egyqaz.com
 elpais.me
+emvolio-gov.gr
 engine.ninja
 enigmase.xyz
 enikos.news
@@ -157,6 +159,7 @@ livingwithbadkidny.xyz
 llinkedin.net
 lnkedin.org
 localegem.net
+lubentv.com
 lylink.online
 makeitshort.xyz
 md-news-direct.com
@@ -276,6 +279,7 @@ trecvf.xyz
 tribune-mg.xyz
 trkc.online
 tsrt.xyz
+tvxs.news
 tw.itter.me
 twtter.net
 ube.gr.com
@@ -293,6 +297,7 @@ utube.digital
 viva.gr.com
 vodafoneegypt.tech
 vodafonegypt.com
+vouliwatch.gr.com
 wavekli.xyz
 we-site.net
 weathear.live
