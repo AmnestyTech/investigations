@@ -70,6 +70,7 @@ rolexd
 seraccountd
 setframed
 smmsgingd
+stagegrad
 stagingd
 vm_stats
 keybrd
