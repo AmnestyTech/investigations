@@ -3613,20 +3613,6 @@
             "target_ref": "malware--23b781d2-72f8-4d56-a661-a6ee6c7a9407"
         },
         {
-            "type": "indicator",
-            "spec_version": "2.1",
-            "id": "indicator--3eaf5002-09aa-476c-be2a-281a95b33f1a",
-            "created": "2024-05-02T08:36:18.5659Z",
-            "modified": "2024-05-02T08:36:18.5659Z",
-            "indicator_types": [
-                "malicious-activity"
-            ],
-            "pattern": "[domain-name:value='query']",
-            "pattern_type": "stix",
-            "pattern_version": "2.1",
-            "valid_from": "2024-05-02T08:36:18.5659Z"
-        },
-        {
             "type": "relationship",
             "spec_version": "2.1",
             "id": "relationship--d29f595a-fb78-4141-8099-2f7a7414bc31",

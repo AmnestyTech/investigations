@@ -112,7 +112,6 @@ playerselection.eu
 powerway.org
 proteinreviews.org
 pythonsystems.org
-query
 quickfindnow.net
 realmac.org
 recipeadvice.eu
