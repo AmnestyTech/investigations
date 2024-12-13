@@ -1,0 +1,4 @@
+com.serv.services
+com.accesibilityservice
+com.li.activity
+com.gu.activity
